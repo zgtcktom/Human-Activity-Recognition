@@ -4,4 +4,4 @@
 - https://www.cis.fordham.edu/wisdm/dataset.php
 
 ## Results
-[img=./confusion.png]
+![confusion matrix](confusion.png)
